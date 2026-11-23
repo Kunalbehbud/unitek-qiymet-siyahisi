@@ -1,8 +1,8 @@
 # UNITEK — Qiymət Siyahısı
 
-UNITEK məhsullarının premium qiymət siyahısı. Sayt GitHub Pages ilə avtomatik yayımlanır.
+UNITEK məhsullarının premium qiymət siyahısı. Sayt Cloudflare Pages ilə avtomatik yayımlanır.
 
-**Sayt:** https://kunalbehbud.github.io/unitek-qiymet-siyahisi/
+**Sayt:** https://unitek.pages.dev
 
 ## Necə yenilənir?
 
